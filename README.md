@@ -9,6 +9,14 @@
 - https://vaporbot.xyz/ (CLOSED)
 - And worked at https://discordrep.com/ (RETIRED)
 
+**✌ My Skills...**.
+- Javascript
+- Python
+- VueJS
+- Express
+- EJS
+- HTML & CSS (SASS)
+
 **✌ I’m currently learning...**.
 - TypeScipt.
 
