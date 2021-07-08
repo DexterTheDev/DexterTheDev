@@ -2,17 +2,17 @@
 ---
 
 **🚧 I am full stack developer, and these are my projects.**
-https://dscjobs.org/ (SOLD).
-https://infinitybotlist.com/ (SOLD).
-https://reviewbots.xyz/ (SOLD).
-https://tropicalbotlist.xyz/ (CLOSED).
-https://vaporbot.xyz/ (CLOSED).
-And worked at https://discordrep.com/ (RETIRED).
+- https://dscjobs.org/ (SOLD)
+- https://infinitybotlist.com/ (SOLD)
+- https://reviewbots.xyz/ (SOLD)
+- https://tropicalbotlist.xyz/ (CLOSED)
+- https://vaporbot.xyz/ (CLOSED)
+- And worked at https://discordrep.com/ (RETIRED)
 
 **✌ I’m currently learning...**.
 - TypeScipt.
 
-**How to reach me. (I am free for any inquires)**
+**How to reach me? (I am free for any inquires)**
 *if you have any project idea's discord related with website don't hesitate and dm me.*
 - [Discord](https://discord.com/users/780079091172900884), or Dexter#2000
 
