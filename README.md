@@ -10,15 +10,15 @@
 - And worked at https://discordrep.com/ (RETIRED)
 
 **✌ My Skills...**.
-- Javascript
-- Python
-- VueJS
-- Express
-- EJS
-- HTML & CSS (SASS)
+- Javascript (95%)
+- Python (30%)
+- VueJS (40%)
+- Express (100%)
+- EJS (100%)
+- HTML & CSS (SASS) (100%)
 
 **✌ I’m currently learning...**.
-- TypeScipt.
+- TypeScipt (60%)
 
 **How to reach me? (I am free for any inquires)**
 *if you have any project idea's discord related with website don't hesitate and dm me.*
