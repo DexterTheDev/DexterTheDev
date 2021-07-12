@@ -14,6 +14,7 @@
 - Python (30%)
 - VueJS (40%)
 - Electron (80%)
+- NodeJS (90%)
 - Express (100%)
 - EJS (100%)
 - HTML & CSS (SASS) (100%)
