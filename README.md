@@ -11,14 +11,14 @@
 - And worked at https://discordrep.com/ (RETIRED)
 
 **✌ My Skills...**.
-- Javascript (95%)
-- Python (30%)
+- Javascript (90%)
+- Python (20%)
 - VueJS (40%)
 - Electron (80%)
-- NodeJS (90%)
-- Express (100%)
+- NodeJS (70%)
+- Express (90%)
 - EJS (100%)
-- HTML & CSS (SASS) (100%)
+- HTML & CSS (SASS) (70%)
 
 **✌ I’m currently learning...**.
 - TypeScipt (60%)
