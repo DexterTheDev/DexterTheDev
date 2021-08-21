@@ -5,6 +5,7 @@
 - https://dscjobs.org/ (SOLD)
 - https://infinitybotlist.com/ (SOLD)
 - https://reviewbots.xyz/ (SOLD)
+- https://discordads.org/ (SOLD)
 - https://tropicalbotlist.xyz/ (CLOSED)
 - https://vaporbot.xyz/ (CLOSED)
 - And worked at https://discordrep.com/ (RETIRED)
