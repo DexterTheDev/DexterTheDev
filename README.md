@@ -16,7 +16,7 @@
 - VueJS (40%)
 - Electron (80%)
 - NodeJS (70%)
-- Express (90%)
+- Express (100%)
 - EJS (100%)
 - HTML & CSS (SASS) (70%)
 
