@@ -2,12 +2,12 @@
 ---
 
 **🚧 I am full stack developer, and these are my projects.**
-- https://dscjobs.org/ (SOLD)
-- https://infinitybotlist.com/ (SOLD)
-- https://reviewbots.xyz/ (SOLD)
-- https://discordads.org/ (SOLD)
-- https://tropicalbotlist.xyz/ (CLOSED)
-- https://vaporbot.xyz/ (CLOSED)
+- https://dscjobs.org/
+- https://infinitybotlist.com/
+- https://reviewbots.xyz/
+- https://discordads.org/
+- https://tropicalbotlist.xyz/
+- https://vaporbot.xyz/
 - And worked at https://discordrep.com/ (RETIRED)
 
 **How to reach me? (I am free for any inquires)**
