@@ -28,7 +28,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <p align="center">
 <a href="https://github.com/DexterTheDev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DexterTheDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DexterTheDev&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
+  <img height="180em" width="4600em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DexterTheDev&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
 </a>
 </p> 
 
