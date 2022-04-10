@@ -39,6 +39,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <a href="mailto:ahmedsabry5364@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/dexterdoesdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/DexterTheDev/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://paypal.me/abdosabry"><img src="	https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+<a href="https://paypal.me/abdosabry"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DexterTheDev)
 
