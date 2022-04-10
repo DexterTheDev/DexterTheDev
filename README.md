@@ -2,7 +2,7 @@
 
 I’m a 16 years old self-taught web developer, I'm passionate about programming and love to learn new things. I love creativity, stay tuned for more impressive projects
 
-#### 🔭 I’m currently looking for new opportunities. Available for Work.
+#### 🔭 I’m currently working on new project
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -12,7 +12,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)&nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/>&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
-<img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat-square&logo=github)&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
@@ -31,7 +30,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:ahmedsabry5364@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.com/users/780079091172900884"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://discord.com/users/780079091172900884"><img src="https://dcbadge.vercel.app/api/shield/780079091172900884"/></a>
 <a href="https://twitter.com/dexterdoesdev"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/DexterTheDev/"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DexterTheDev)
