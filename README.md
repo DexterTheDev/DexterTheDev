@@ -42,3 +42,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <a href="https://paypal.me/abdosabry"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DexterTheDev)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
