@@ -25,17 +25,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
 
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/DexterTheDev">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DexterTheDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DexterTheDev&layout=compact&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p> 
-
-
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://discord.com/users/780079091172900884"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
