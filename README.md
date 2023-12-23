@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hello, I'm [Dexter](https://discord.com/users/780079091172900884)
 
-I’m a 16 years old self-taught full web developer, I'm passionate about programming and love to learn new things. I love creativity, stay tuned for more impressive projects
+I’m a 17 years old self-taught full web developer, I'm passionate about programming and love to learn new things. I love creativity, stay tuned for more impressive projects
 
 #### 🔭 I’m currently working on new project
 
