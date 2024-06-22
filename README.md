@@ -7,7 +7,7 @@ I’m a 18 years old self-taught full web developer, I'm passionate about progra
 ## 🛠 &nbsp;Tech Stack
 
 Here are a few things I've picked up along my learning journey : 
- <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,fastify,vue,linux,heroku,bootstrap,css,discord,discordbots,git,github,markdown,nginx,nuxtjs,typescript,vscode,visualstudio,html5,css3,ubuntu&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,fastifyjs,vue,linux,heroku,bootstrap,css,discord,discordbots,git,github,markdown,nginx,nuxtjs,typescript,vscode,visualstudio,html5,css3,ubuntu&theme=dark" />
 
 ## 🤝🏻 &nbsp;Connect with Me
 
