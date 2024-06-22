@@ -20,7 +20,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![VueJS](https://img.shields.io/badge/Vue-0D4435?style=for-the-badge&logo=Vue.js)&nbsp;
-![VueJS](https://img.shields.io/badge/ReactJS-0D4435?style=for-the-badge&logo=Reactjs)&nbsp;
+![VueJS](https://img.shields.io/badge/ReactJS-0D4435?style=for-the-badge&logo=React.js)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=Ubuntu)&nbsp;
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
