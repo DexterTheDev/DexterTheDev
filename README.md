@@ -6,25 +6,8 @@ I’m a 18 years old self-taught full web developer, I'm passionate about progra
 
 ## 🛠 &nbsp;Tech Stack
 
-Here are a few things I've picked up along my learning journey : <br><br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Fastify](https://img.shields.io/badge/Fastify-2B0452?style=for-the-badge&logo=Fastify)&nbsp;
-![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-0C0042?style=for-the-badge&logo=Heroku)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![VueJS](https://img.shields.io/badge/Vue-0D4435?style=for-the-badge&logo=Vue.js)&nbsp;
-![VueJS](https://img.shields.io/badge/ReactJS-0D4435?style=for-the-badge&logo=React.js)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=Ubuntu)&nbsp;
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
+Here are a few things I've picked up along my learning journey : 
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express,fastify,vue,linux,heroku,bootstrap,css,discord,discordbots,git,github,markdown,nginx,nuxtjs,typescript,vscode,visualstudio,html5,css3,ubuntu&theme=dark" />
 
 ## 🤝🏻 &nbsp;Connect with Me
 
