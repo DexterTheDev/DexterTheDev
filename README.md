@@ -1,4 +1,4 @@
-# Ahmed Sabry also known as [Dexter](https://discord.com/users/780079091172900884) at **Discord**
+## Hello, I'm Ahmed Sabry  known as [Dexter](https://discord.com/users/780079091172900884) at *Discord*
 
 I’m an 18-year-old self-taught full web developer, I'm passionate about programming and love to learn new things. I love creativity, stay tuned for more impressive projects
 
